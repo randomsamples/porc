@@ -1,5 +1,4 @@
 # travis.ci configuration
-# test
 language: python
 
 python:
